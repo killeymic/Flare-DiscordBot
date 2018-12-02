@@ -7,7 +7,9 @@
 
 Flare is proud to power these awesome servers!
 
-[<img src="https://discordapp.com/api/guilds/252503847589642242/widget.png?style=shield">](https://discord.gg/sBhF8uu)
+[<img src="https://img.shields.io/badge/-NFL%20Discord-red.svg">](https://discord.gg/sBhF8uu)
+[<img src="https://img.shields.io/badge/-Game%20of%20Bots-red.svg">](https://discord.gg/776brEe)
+
 
 Flare is a plugin-based bot – meaning all features and commands can be enabled/disabled to your liking, simply by adding or removing some files!
 
