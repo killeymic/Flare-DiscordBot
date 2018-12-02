@@ -1,4 +1,4 @@
-# Flare - An extremely powerful, yet customizable Discord bot
+# Flare - Powerful enough to run a game!
 #### *With our plugin-based system, ANY Discord bot is possible behind the power of Flare!*
 
 [<img src="https://img.shields.io/badge/Support-Flare!-orange.svg">](https://www.patreon.com/killeymic)
