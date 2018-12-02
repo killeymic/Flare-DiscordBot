@@ -1,4 +1,5 @@
 # Flare - Powerful enough to run a game!
+# Flare - As powerful as a game engine
 #### *With our plugin-based system, ANY Discord bot is possible behind the power of Flare!*
 
 [<img src="https://img.shields.io/badge/Support-Flare!-orange.svg">](https://www.patreon.com/killeymic)
@@ -15,3 +16,4 @@ Flare is a plugin-based bot – meaning all features and commands can be enabled
 
 Although this version is *self-hosted* only, we have a hosted version in the works that will have features similar to Dyno or Mee6.
 
+Installation requires no more than the knowledge to unzip a file, although a basic understanding of Java will make this an even more powerful tool.
