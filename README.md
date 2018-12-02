@@ -1,4 +1,3 @@
-# Flare - Powerful enough to run a game!
 # Flare - As powerful as a game engine
 #### *With our plugin-based system, ANY Discord bot is possible behind the power of Flare!*
 
