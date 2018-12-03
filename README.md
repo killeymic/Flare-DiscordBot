@@ -3,7 +3,7 @@
 
 [<img src="https://img.shields.io/badge/Support-Flare!-orange.svg">](https://www.patreon.com/killeymic)
 [<img src="https://img.shields.io/badge/jda-api-blue.svg">](https://github.com/DV8FromTheWorld/JDA)
-[<img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield">](https://discord.gg/red)
+[<img src="https://discordapp.com/api/guilds/518703695920103424/widget.png?style=shield">](https://discord.gg/red)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 Flare is proud to power these awesome servers!
